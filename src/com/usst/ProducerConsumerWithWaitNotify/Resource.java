@@ -1,4 +1,4 @@
-package com.usst.ProducerConsumerWithWaitNofity;
+package com.usst.ProducerConsumerWithWaitNotify;
 
 /**
  * 公共资源类

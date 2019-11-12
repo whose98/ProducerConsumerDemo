@@ -1,4 +1,4 @@
-package com.usst.ProducerConsumerWithWaitNofity;
+package com.usst.ProducerConsumerWithWaitNotify;
 
 /**
  * 消费者线程
